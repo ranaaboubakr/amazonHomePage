@@ -8,12 +8,12 @@ this document contains Amazon Home Page UI functionality code
 - 📫 How to reach me **ranaaboubakr@gmail.com**
 
 Table of contents:
-# idea
-## Reports
-### src
-#### target
-#####pom.xml
-###### testing.xml
+1. idea
+2. Reports
+3. src
+4. target
+5. pom.xml
+6. testing.xml
 
 
 <h3 align="left">Connect with me:</h3>
