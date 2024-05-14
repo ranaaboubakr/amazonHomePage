@@ -1,11 +1,6 @@
 # amazonHomePage
 # Hi 👋, I'm Rana Hagag
-this document contains Amazon Home Page UI functionality code
-
-
-## A Test Automation Engineer
-
-- 📫 How to reach me **ranaaboubakr@gmail.com**
+this document contains Amazon Home Page Web UI functionality code
 
 Table of contents:
 1. idea
